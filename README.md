@@ -1,35 +1,24 @@
-# hello-world
-Hello World - it is me!
+<h1 align="center">Hi 👋, I'm Damian</h1>
 
+I am Damian Borsiak - Global Supply Chain and Aerospace Manufacturing Profesional that have accomplished Full Time Data Analytics and ML Bootcamp in Paris from [Ironhack Paris](https://www.ironhack.com/en/paris).
 
-Blessd child and Conqueror of excel spreedsheets and programing newbie that try to understand amazing world of programiming :)
-
-So here I am, created from sands of Kalahari desert, born from giants blood and shaped by hands of Zeus!
-
-Beware cause I am comming! :)
-
-
-<h1 align="center">Hi 👋, I'm Jaime</h1>
-
-I am Jaime Sastre Crespo,I am currently attending a Bootcamp in Data Analytics Full Time in Paris from [Ironhack Paris](https://www.ironhack.com/en/paris). I am a tech enthusiast & a self learner.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaimeSastreCrespo" alt="JaimeSastreCrespo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Borysdb" alt="Borysdb" /> </p>
 
 - 🌱 I’m currently learning ** Machine Learning, Python (you know, one never stops), Azure, MySQL **
 - 👯 I’m looking to collaborate on Data Analytics Related Projects **
 - 🤔 I’m looking for a job in the Data field **
-- 🥅 2022 Goals: To be profficient in Python and Machine learning :|
-- ⚡ Fun fact: I love surfing and playing my guitar.
+- 🥅 2023 Goals: To be profficient in Python, SQL and Machine learning :|
+- ⚡ Fun fact: I lived 5 years in the UK and since 11/2019 in Paris France!
 
 <p align="center">
-    <a href="https://github.com/JaimeSastreCrespo/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeSastreCrespo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Borysdb/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Borysdb&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JaimeSastreCrespo&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaimeSastreCrespo&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSastreCrespo&theme=great-gatsby&layout=compact)](https://github.com/JaimeSastreCrespo)
+![trophy](https://github-profile-trophy.vercel.app/?username=Borysdb&row=1&no-bg=true)
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borysdb&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borysdb&theme=great-gatsby&layout=compact)](https://github.com/Borysdb)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -81,9 +70,9 @@ I am Jaime Sastre Crespo,I am currently attending a Bootcamp in Data Analytics F
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://fb.com/Jaimesastrecrespo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jaimesastrecrespo" height="30" width="40" /></a>
-<a href="https://instagram.com/jaimesastrecrespo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaimesastrecrespo" height="30" width="40" /></a>
-<a href="https://github.com/JaimeSastreCrespo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JaimeSastreCrespo" height="30" width="40" /></a>
+<a href="https://fb.com/Borysdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Borysdb" height="30" width="40" /></a>
+<a href="https://instagram.com/Borysdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Borysdb" height="30" width="40" /></a>
+<a href="https://github.com/Borysdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Borysdb" height="30" width="40" /></a>
     
 <br>
 
