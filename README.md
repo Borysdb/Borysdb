@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 
-I am Damian Borsiak - Global Supply Chain and Aerospace Manufacturing Profesional that have accomplished Full Time Data Analytics and ML Bootcamp in Paris from [Ironhack Paris](https://www.ironhack.com/en/paris).
+I am Damian Borsiak - Global Supply Chain and Aerospace Manufacturing Professional that have accomplished Full Time Data Analytics and ML Bootcamp in Paris from [Ironhack Paris](https://www.ironhack.com/en/paris).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Borysdb" alt="Borysdb" /> </p>
 
-- 🌱 I’m currently learning ** Machine Learning, Python (you know, one never stops), Azure, MySQL **
-- 👯 I’m looking to collaborate on Data Analytics Related Projects **
-- 🤔 I’m looking for a job in the Data field **
-- 🥅 2023 Goals: To be profficient in Python, SQL and Machine learning :|
-- ⚡ Fun fact: I lived 5 years in the UK and since 11/2019 in Paris France!
+- 🌱 I’m currently learning more about Machine Learning, Python (one never stops!), MySQL, Tableau **
+- 👯 I am open for collaborations **
+- 🤔 I’m looking for a job in the Data field or connected**
+- 🥅 2023 Goals: To facilitate my knowledge learned during the Bootcamp and become fully operational! **
+- ⚡ Fun fact: I have lived 5 years in Leicester/UK and since 11/2019 in Paris/France! **
 
 <p align="center">
     <a href="https://github.com/Borysdb/github-readme-streak-stats">
