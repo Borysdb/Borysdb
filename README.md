@@ -47,13 +47,11 @@ I am Damian Borsiak - Global Supply Chain and Aerospace Manufacturing Profesiona
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://camo.githubusercontent.com/3807c61c1dc9a204b96e6aa77bb39c731d79496e68e353d8e51c2527697e6b0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61632532306f732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61636f73266c6f676f436f6c6f723d463046304630">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
@@ -70,8 +68,7 @@ I am Damian Borsiak - Global Supply Chain and Aerospace Manufacturing Profesiona
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://fb.com/Borysdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Borysdb" height="30" width="40" /></a>
-<a href="https://instagram.com/Borysdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Borysdb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/damian-borsiak/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Borysdb" height="30" width="30" /></a>
 <a href="https://github.com/Borysdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Borysdb" height="30" width="40" /></a>
     
 <br>
